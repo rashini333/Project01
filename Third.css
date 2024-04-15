@@ -1,0 +1,15 @@
+form {
+  margin-bottom: 1rem;
+}
+
+label, input, textarea {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input[type="submit"] {
+  margin-top: 1rem;
+}
+div{
+	background-color:#F4ECF7;
+}
